@@ -11,7 +11,7 @@ A Python-based tool to automate pass/fail testing of semiconductor devices (volt
 ## Installation
 
 1. **Download Executable**:  
-   Grab the latest `analyzer.exe` from the [Releases](https://github.com/yourusername/your-repo/releases) section.
+   Grab the latest `Auto_Report_Gen-GUI.exe` from the [Releases](https://github.com/yourusername/your-repo/releases) section.
 
 ## Manual
 Please download user_manual-gui.pdf
